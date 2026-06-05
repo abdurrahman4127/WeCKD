@@ -1,0 +1,12 @@
+/data/*
+/distillation/*
+/models/*
+/optimization/*
+/preprocessing/*
+/temperature_scheduling/*
+/utils/*
+*.py
+*.ipynb
+*.env
+*.ipynb_checkpoints
+*.hdf5
